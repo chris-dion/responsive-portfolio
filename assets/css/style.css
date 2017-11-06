@@ -123,6 +123,10 @@ h3,
 #main-container {
   padding-top: 130px;
 }
+
+#cat{
+  width: 80%;
+}
 .main-section {
   padding: 30px;
   margin: 0 0 40px 0;
